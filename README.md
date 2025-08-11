@@ -5,6 +5,6 @@ I'm Mohammad Reza Zabetzadeh, a passionate **Fullstack developer** with a love f
 - 🌍 Open to global opportunities.
 - 💻 Skilled in **[Django, Python, JS, ReactJS, Database, Git]**.
 - 🌱 Currently learning **[Testing, CI/CD, GraphQL, WebSockets, Typescript]**.
-- 🔗 Let's connect: [LinkedIn Profile](https://mxz-dev.github.io/www.linkedin.com/in/mohammad-reza-zabetzadeh-645bb0348) | [Portfolio](https://mxz-dev.github.io/)
+- 🔗 Let's connect: [LinkedIn Profile](https://mxz-dev.github.io/www.linkedin.com/in/mohammad-reza-zabetzadeh-645bb0348) | [Portfolio](https://mhzabet.github.io/) | [Telegram Channel](https://t.me/ch_mhzabet)
 
 Thanks for visiting! 🌟
