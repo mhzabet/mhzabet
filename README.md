@@ -1,2 +1,2 @@
 # Hello World...
-In the name of the Allah.
+Praise be to allah.
